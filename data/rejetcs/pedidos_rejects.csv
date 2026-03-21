@@ -1,0 +1,13 @@
+id_pedido,id_cliente,fecha_pedido,monto,estado,motivo_rechazo
+PED7001,,2025-01-31,2395.24,Cancelado,id_cliente_vacio
+PED7025,CL1007,2024-08-22,,Preparacion,monto_vacio
+PED7056,,2024-09-16,592.51,Enviado,id_cliente_vacio
+PED7063,CL1096,2024-03-25,,Entregado,monto_vacio
+PED7074,,2024-08-04,723.41,Pendiente,id_cliente_vacio
+PED7075,CL1132,2024-02-25,,Pendiente ,monto_vacio
+PED7100,CL1039,2025-03-21,,Entregado,monto_vacio
+PED7128,,2024-05-23,550.13,Enviado,id_cliente_vacio
+PED7191,CL1130,2024-06-03,,Cancelado,monto_vacio
+PED7192,,2025-03-13,1859.39,Preparacion,id_cliente_vacio
+PED7214,CL1134,2024-03-03,,Entregado,monto_vacio
+PED7219,,2025-02-04,633.26,Cancelado,id_cliente_vacio
